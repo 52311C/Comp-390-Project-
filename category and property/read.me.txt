@@ -1,0 +1,2 @@
+add the commons-codec.x.x.jar file to your libraries in the project:it handles image retrieval from the database for both categories and properties.
+the categories page still needs styling and the properties have to be linked with the booking page(and autofill property details in the booking form on submit)
